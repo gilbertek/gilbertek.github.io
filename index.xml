@@ -6,10 +6,19 @@
     <description>Recent content in Home on Gilbert F. Sewovoe-Ekoue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:57:43 -0500</lastBuildDate>
     
 	<atom:link href="https://leftaxe.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Index</title>
+      <link>https://leftaxe.com/posts/2019/05/12/flutter-development-on-macos-setup/</link>
+      <pubDate>Sun, 12 May 2019 13:50:18 -0400</pubDate>
+      
+      <guid>https://leftaxe.com/posts/2019/05/12/flutter-development-on-macos-setup/</guid>
+      <description>brew tap dart-lang/dart brew install dart Install stagehand, which gives you templates for creating Dart apps
+pub global activate stagehand</description>
+    </item>
     
     <item>
       <title>Quotes</title>
