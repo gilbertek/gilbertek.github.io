@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://leftaxe.com/</loc>
-    <lastmod>2018-01-01T00:57:43-05:00</lastmod>
+    <lastmod>2019-05-14T20:49:07-04:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +13,26 @@
   </url>
   
   <url>
+    <loc>https://leftaxe.com/tags/dart/</loc>
+    <lastmod>2019-05-14T20:49:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leftaxe.com/tags/flutter/</loc>
+    <lastmod>2019-05-14T20:49:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://leftaxe.com/posts/2019/05/12/flutter-development-on-macos-setup/</loc>
-    <lastmod>2019-05-12T20:05:27-04:00</lastmod>
+    <lastmod>2019-05-14T20:49:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leftaxe.com/tags/</loc>
+    <lastmod>2019-05-14T20:49:07-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,16 +52,11 @@
   
   <url>
     <loc>https://leftaxe.com/about/</loc>
-    <lastmod>2019-05-12T20:12:50-04:00</lastmod>
+    <lastmod>2019-05-12T20:25:44-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://leftaxe.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leftaxe.com/tags/</loc>
     <priority>0</priority>
   </url>
   
